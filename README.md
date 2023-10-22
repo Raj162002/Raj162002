@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Raj162002&show_icons=true">
 
-### Hi there I'm Luca :lemon:
+### Hi there I'm Rajeevan 
 
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/
-mr.marvellous_16/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/mr.marvellous_16/)
 [![me@lucafluri.ch](https://img.shields.io/static/v1?label=ramkumarrajeevan16@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:ramkumarrajeevan16@gmail.com)
   
   
