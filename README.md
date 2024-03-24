@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 [![me@lucafluri.ch](https://img.shields.io/static/v1?label=ramkumarrajeevan16@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:ramkumarrajeevan16@gmail.com)
   
   
-👨‍💻 21 years old Learner   
+👨‍💻 22 years old Learner   
 👨‍🎓 Studying Computer Science
